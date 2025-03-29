@@ -1,5 +1,10 @@
 # NTC-Enigma
 
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.15103988"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15103988.svg" alt="DOI"></a>
+   <a href=''><img src='https://img.shields.io/badge/license-MIT-000000.svg'></a> 
+</p>
+
 This repository contains a Python-based framework to evaluate and modify network traffic datasets (PCAP files) through occlusion techniques and protocol analysis. The framework is based on the research paper:
 
 > **"SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers"**\
